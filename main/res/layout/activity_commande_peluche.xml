@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imagePelucheCommande"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:contentDescription="@string/imagepeluche" />
+
+    <TextView
+        android:id="@+id/pelucheNameCommande"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_marginStart="20sp"
+        android:layout_marginTop="20sp"
+        android:shadowColor="@color/black"
+        android:shadowDx="1.5"
+        android:shadowDy="1.5"
+        android:shadowRadius="3"
+        android:text="@string/stitch_des_neiges"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/peluchePriceCommande"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginEnd="20dp"
+        android:gravity="end"
+        android:shadowColor="@color/black"
+        android:shadowDx="1.5"
+        android:shadowDy="1.5"
+        android:shadowRadius="3"
+        android:text="@string/_14"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+</LinearLayout>

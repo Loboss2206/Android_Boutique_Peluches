@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nom": "Stitch-Rainbow",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Stitch2.png",
+        "prix": 20,
+        "type": "stitch",
+        "description": "Un cadeau parfait pour montrer l'amour que vous avez envers une personne :3",
+        "taille": 35
+    },
+    {
+        "id": 2,
+        "nom": "Stitch-Normal",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Stitch1.png",
+        "prix": 21,
+        "type": "stitch",
+        "description": "Une peluche de Stitch, tout ce qu'il y a de plus normal.",
+        "taille": 23
+    },
+    {
+        "id": 3,
+        "nom": "Gros-Stitch",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Stitch3.png",
+        "prix": 25,
+        "type": "stitch",
+        "description": "Le plus grand des Stitch disponible, d'une hauteur de 1m10 sur un longueur et une largeur de 60 cm ! ",
+        "taille": 110
+    },
+    {
+        "id": 4,
+        "nom": "Stitch-Noël",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Stitch4.png",
+        "prix": 19,
+        "type": "stitch",
+        "description": "Un cadeau de noël tout trouvé pour les enfants comme les grands !",
+        "taille": 28
+    },
+    {
+        "id": 5,
+        "nom": "Stitchela",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Stitchela.png",
+        "prix": 2,
+        "type": "stitch",
+        "description": "Une peluche à l'éffigie de Angel, la copine de Stitch. Un cadeau parfait pour votre dulcinée !",
+        "taille": 30
+    },
+    {
+        "id": 6,
+        "nom": "Goomba",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Goomba.png",
+        "prix": 35,
+        "type": "goomba",
+        "description": "Malgré son air de méchant, le Goomba se montrera bienveillant et partant pour tout câlin !",
+        "taille": 34
+    },
+    {
+        "id": 7,
+        "nom": "Chat-Chinois",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/gachat.png",
+        "prix": 40,
+        "type": "chat",
+        "description": "Malgré son apparence, ce petit chat n'est pas à manger, mais à câliner !",
+        "taille": 26
+    },
+    {
+        "id": 8,
+        "nom": "Cactus-Dansant",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/cactus.png",
+        "prix": 20,
+        "type": "cactus",
+        "description": "Le cactus dansant réagira à la musique l'entourant pour se lancer dans une danse effrénée",
+        "taille": 34
+    },
+    {
+        "id": 9,
+        "nom": "Donald",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/Donald.png",
+        "prix": 10,
+        "type": "donald",
+        "description": "Une petite peluche Donald de grande qualité",
+        "taille": 29
+    },
+    {
+        "id": 10,
+        "nom": "Bubble Tea",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/bubbletea.png",
+        "prix": 39,
+        "type": "bubble",
+        "description": "Pour ceux qui ont une soif sans fin !",
+        "taille": 28
+    },
+    {
+        "id": 11,
+        "nom": "Dumbo",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/dumbo.png",
+        "prix": 16,
+        "type": "disney",
+        "description": "",
+        "taille": 26
+    },
+    {
+        "id": 12,
+        "nom": "Lilo et Stitch",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/lilo_stitch.png",
+        "prix": 22,
+        "type": "stitch",
+        "description": "Deux pour le prix d'un, le duo iconique d'un des meilleurs films d'animations !",
+        "taille": 38
+    },
+    {
+        "id": 13,
+        "nom": "Pieuvre",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/pieuvre.png",
+        "prix": 12,
+        "type": "autre",
+        "description": "Une pieuvre deux en un, il suffit simplement de la retourner pour un changement de couleur !",
+        "taille": 21
+    },
+    {
+        "id": 14,
+        "nom": "Psykokwak",
+        "imgurl": "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/psykokwak.png",
+        "prix": 35,
+        "type": "Pokemon",
+        "description": "Son air fatigué ne le laisse pas paraître, mais Psykokwak vous accompagnera dans toutes vos aventures !",
+        "taille": 31
+    },
+    {
+        "id" : 15,
+        "nom" : "Dragoune Rouge",
+        "imgurl" : "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/peluche-dragoune-rouge-xl-edition-anniversaire-20-ans.png",
+        "prix" : 80,
+        "type" : "jeux",
+        "description" : "Pour les aventuriers à la recherche de la meilleurs des montures, un précieux compagnon se présente a vous !",
+        "taille": 39
+    },
+    {
+        "id" : 16,
+        "nom" : "Requin Marteau",
+        "imgurl" : "https://raw.githubusercontent.com/Natfike/Projet_Android_Peluches/main/img/requin.png",
+        "prix" : 20,
+        "type" : "animal",
+        "description" : "Il faudrait être complétement marteau pour ne pas vouloir de ce petit bout de chou !",
+        "taille": 22
+    }
+]

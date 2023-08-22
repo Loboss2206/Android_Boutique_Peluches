@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="imagepeluche">imagePeluche</string>
+    <string name="lilou_et_stitch">Lilou et Stitch !</string>
+    <string name="valider">Valider</string>
+    <string name="payer">Payer</string>
+    <string name="ajouter_au_panier">Ajouter au panier</string>
+    <string name="supprimer_du_panier">Supprimer du panier</string>
+    <string name="acc_der_au_panier">Accéder au panier</string>
+    <string name="stitch_des_neiges">Stitch des neiges</string>
+    <string name="_14">14$</string>
+    <string name="merci_pour_votre_paiement">Merci pour votre paiement !</string>
+    <string name="votre_commande_sera_disponible_cette_adresse">Votre commande sera disponible à cette adresse :</string>
+    <string name="boulevard_du_parc_77700_coupvray">Boulevard du Parc, 77700 Coupvray</string>
+    <string name="bient_t">À bientôt !</string>
+    <string name="panier">Panier</string>
+</resources>
