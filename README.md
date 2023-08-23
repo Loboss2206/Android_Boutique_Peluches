@@ -2,7 +2,7 @@
 
 Ce travail a été réalisé dans le cadre de la ressource de développement mobile pendant mon semestre 4 de BUT Informatique. L'objectif était de créer une application de e-commerce en utilisant diverses technologies utiles et intéressantes.
 
-## 🧸 StitchLand
+## 🧸 Présentation
 
 Bienvenue dans l'application StitchLand ! Dans cette application, nous vous présentons une collection soigneusement sélectionnée de peluches adorables. Que vous soyez un amateur de peluches ou que vous cherchiez le cadeau parfait, notre application vous propose une variété de choix.
 
